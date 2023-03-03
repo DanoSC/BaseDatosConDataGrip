@@ -1,6 +1,6 @@
 # BaseDatosConDataGrip
 
-##Descargamos todo lo necesario 
+## Descargamos todo lo necesario 
 ---
 
 Lo primero que he hecho ha sido pedir las licencias para estudiantes que nos dan en Github, despues de eso vamos a la paguina de JetBrains y buscamos descargar la aplicacion de datagrip 
@@ -19,7 +19,7 @@ Finalmente como ya tenemos todo conectado, creamos una base de datos y ejecutamo
 
 ![](Imagenes/1.jpg)
 
-##1º Ejercicio 
+## 1º Ejercicio 
 ---
 
 Para este ejercicio tenemos que mostras el nombre de las ciudades y de los paises ordenados por el nombre del pais y de la ciudad con 4 versiones 
@@ -42,7 +42,7 @@ Usando Left Outer Join
 
 ---
 
-##2º Ejercicio 
+## 2º Ejercicio 
 ---
 
 Para este ejercicio tenemos que mostras el nombre de los equipos con sus ciudades u sus paises, el resultado ordenado por ciudades y paises con 5 versiones
@@ -69,7 +69,7 @@ Usando Full outer Join
 
 ---
 
-##3º Ejercicio 
+## 3º Ejercicio 
 ---
 
 Para este ejercicio tenemos que mostras cuantos equipos tinene cada ciudad, ordenado por el  nombre de la ciudad 2 versiones
@@ -84,7 +84,7 @@ Usando Left outher Join
 
 ---
 
-##4º Ejercicio 
+## 4º Ejercicio 
 ---
 
 Para este ejercicio tenemos que mostras las ciudades que no tienen equipos usando un Left outer join
